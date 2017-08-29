@@ -16,8 +16,10 @@
 | Grok Git | | 5 |
 | Master Markdown | | 5 |
 | Learn LaTeX | | 5 |
-| Total Score | | 20 |
+| Total Score | 0 | 20 |
 | Slip days used | | |
+
+## Grading Note: No submission branch to grade.
 
 
 ## Introduction
