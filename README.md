@@ -20,6 +20,7 @@
 | Slip days used | | |
 
 
+
 ## Introduction
 
 In this assignment you will prepare the necessary resources for interfacing with the class and completing assignments.  For this assignment you will complete tutorials and achieve basic proficiency with three main tools:
